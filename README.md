@@ -1,4 +1,4 @@
-# <img src="https://what3words.com/assets/w3w_square_red.png" width="64" height="64" alt="what3words">&nbsp;3words-button
+# <img src="https://what3words.com/assets/images/w3w_square_red.png" width="64" height="64" alt="what3words">&nbsp;3words-button
 
 JavaScript for button to show the 3 word address for the user's current location
 
